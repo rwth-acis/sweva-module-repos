@@ -18,11 +18,11 @@
     "/test/"
   ],
   "dependencies": {
-    "sweva-visualization-raw": "rwth-acis/sweva-visualization-raw#sweva-update",
+    "sweva-visualization-raw": "rwth-acis/sweva-visualization-raw#sweva-update"
   },
   "devDependencies": {
     "web-component-tester": "^6.0.0",
-    "iron-component-page": "PolymerElements/iron-component-page#^3.0.1",
+    "iron-component-page": "PolymerElements/iron-component-page#^3.0.1"
   },
   "resolutions": {
     "d3": "^3.5.12"
