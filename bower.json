@@ -18,15 +18,11 @@
     "/test/"
   ],
   "dependencies": {
-    "sweva-visualization-bar-chart": "rwth-acis/sweva-visualization-bar-chart#^1.0.7",
-    "sweva-visualization-graph": "rwth-acis/sweva-visualization-graph#^1.0.7",
-    "sweva-visualization-line-graph": "rwth-acis/sweva-visualization-line-graph#^1.0.7",
     "sweva-visualization-raw": "rwth-acis/sweva-visualization-raw#sweva-update",
-    "sweva-visualization-stacked-area-chart": "rwth-acis/sweva-visualization-stacked-area-chart#^1.0.7"
   },
   "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "web-component-tester": "^4.0.0"
+    "web-component-tester": "^6.0.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^3.0.1",
   },
   "resolutions": {
     "d3": "^3.5.12"
