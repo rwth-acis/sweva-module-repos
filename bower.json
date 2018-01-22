@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "sweva-visualization-raw": "rwth-acis/sweva-visualization-raw#sweva-update",
-    "sweva-visualization-line-graph": "rwth-acis/sweva-visualization-line-graph#^sweva-update"
+    "sweva-visualization-line-graph": "rwth-acis/sweva-visualization-line-graph#sweva-update"
   },
   "devDependencies": {
     "web-component-tester": "^6.0.0",
