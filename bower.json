@@ -18,6 +18,7 @@
     "/test/"
   ],
   "dependencies": {
+    "sweva-visualization-bar-chart": "rwth-acis/sweva-visualization-bar-chart#sweva-update",
     "sweva-visualization-raw": "rwth-acis/sweva-visualization-raw#sweva-update",
     "sweva-visualization-line-graph": "rwth-acis/sweva-visualization-line-graph#sweva-update"
   },
