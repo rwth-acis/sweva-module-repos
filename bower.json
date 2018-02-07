@@ -21,7 +21,7 @@
     "sweva-visualization-bar-chart": "rwth-acis/sweva-visualization-bar-chart#sweva-update",
     "sweva-visualization-raw": "rwth-acis/sweva-visualization-raw#sweva-update",
     "sweva-visualization-line-graph": "rwth-acis/sweva-visualization-line-graph#sweva-update",
-    "sweva-visualization-graph": "rwth-acis/sweva-visualization-graph#^1.0.7"
+    "sweva-visualization-graph": "rwth-acis/sweva-visualization-graph#sweva-update"
   },
   "devDependencies": {
     "web-component-tester": "^6.0.0",
